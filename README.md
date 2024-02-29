@@ -2,6 +2,10 @@
 
 Welcome to the Signal and Image Processing (SIP) repository, where we delve into the core concepts and applications of signal and image processing using practical, hands-on Jupyter notebooks.
 
+<p align="center">
+  <img src="https://www.uu.nl/sites/default/files/styles/image_770x510/public/beta_fCWT_hero_v2.png?itok=sOPkJxhN" />
+</p>
+
 ## Table of Contents
 
 - [Introduction](#introduction)
